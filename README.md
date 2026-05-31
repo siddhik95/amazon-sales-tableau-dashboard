@@ -89,6 +89,7 @@ The dataset contains information related to:
 ## Conclusion
 
 This Tableau dashboard provides a comprehensive view of Amazon sales performance and helps identify opportunities for business growth, profitability improvement, and operational optimization.
+A sample dataset is included for reference. The full dataset was excluded due to GitHub file size limits.
 
 ---
 
